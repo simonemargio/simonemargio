@@ -1,4 +1,4 @@
-![Simone github stats](https://github-readme-stats.vercel.app/api?username=simonemargio&count_private=true&show_icons=true&hide=commits,prs,issues)
+![Simone github stats](https://github-readme-stats.vercel.app/api?username=simonemargio&count_private=true&show_icons=true&hide=prs,issues)
 
 
 
