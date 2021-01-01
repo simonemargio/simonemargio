@@ -10,8 +10,20 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38s2kn36xz567nseptmbqjskp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=38s2kn36xz567nseptmbqjskp&redirect=true)
 
-## Sometimes I write
+## That's me
 <!-- markdownlint-disable MD033 -->
+<details>
+    <summary>&#128073 <b>About</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+- :books: [Books](https://simonemargio.im/work/books/)
+- 🎧 [Music](https://simonemargio.im/work/music/)
+- 🏃‍♂️ [Sport](https://simonemargio.im/work/sport/)
+- ⛩ [Anime](https://simonemargio.im/work/anime/)
+- 🎮 [Game](https://simonemargio.im/work/game/)
+- 💰 [Expenses](https://simonemargio.im/work/expenses/)
+<!-- BLOG-POST-LIST:END -->
+</details>
 
 <details>
     <summary>&#128073 <b>Latest blogs posts</b></summary><br/>
