@@ -10,8 +10,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38s2kn36xz567nseptmbqjskp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=38s2kn36xz567nseptmbqjskp&redirect=true)
 
-[![Forever Favorites](https://img.shields.io/badge/Forever%20favorites-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2hpERtBwOY51N179NSF1eH?si=57Ou57DzQDyQ0YhKaP-ymQ) [![Programming](https://img.shields.io/badge/Programming-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6S1yNOaZSTKyod9eke43IY?si=1M9QOncrSX-qwSxPe_UEww) [![Relax](https://img.shields.io/badge/Relax-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0U8uzyXwHKd8TalmzyzTTC?si=bno0NQoiSni6vkG0jk53Nw)
-
 ## Sometimes I write
 <!-- markdownlint-disable MD033 -->
 
