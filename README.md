@@ -29,6 +29,7 @@
     <summary>&#128073 <b>Latest blogs posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop using whatsapp](https://simonemargio.im/blog/stopusingwhatsapp/)
 - [Password Managers](https://simonemargio.im/blog/managepasswords/)
 - [Always backup](https://simonemargio.im/blog/backup/)
 - [Fix Apple Watch battery life](https://simonemargio.im/blog/fixapplewatch/)
