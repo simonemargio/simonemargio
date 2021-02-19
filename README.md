@@ -26,7 +26,7 @@
 </details>
 
 <details>
-    <summary>&#128073 <b>Latest blogs posts</b></summary><br/>
+    <summary>&#128073 <b>Latest blog posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 - [About EXIF metadata](https://simonemargio.im/blog/aboutexifmetadata/)
