@@ -6,9 +6,11 @@
 - :trophy: 2021 Goals: publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
-## Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=38s2kn36xz567nseptmbqjskp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=38s2kn36xz567nseptmbqjskp&redirect=true)
+## My Playlist 
+[![Play](https://user-images.githubusercontent.com/22590804/111619272-a460cd00-87e5-11eb-913f-b5ae5167140c.png)](https://music.apple.com/it/playlist/principale/pl.u-DdANNB5uylDrz8)
+[![Play](https://user-images.githubusercontent.com/22590804/111620110-952e4f00-87e6-11eb-8740-45cd999df81a.png)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
+[![Play](https://user-images.githubusercontent.com/22590804/111620114-965f7c00-87e6-11eb-86eb-1480dd0e9980.png)](https://music.apple.com/it/playlist/focus/pl.u-76oNNrBC4No3Ey)
+[![Play](https://user-images.githubusercontent.com/22590804/111619658-218c4200-87e6-11eb-93c5-7a08b57b90bc.png)](https://music.apple.com/it/playlist/palestra/pl.u-38oWWgbT3gryK0)
 
 ## That's me
 <!-- markdownlint-disable MD033 -->
