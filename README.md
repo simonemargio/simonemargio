@@ -10,10 +10,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tv1czk8r5ar01xar2mvucmj29&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tv1czk8r5ar01xar2mvucmj29&redirect=true)
 
 ## My Playlist
-[![Play](https://user-images.githubusercontent.com/22590804/113120933-66669e80-9212-11eb-9c02-f7261432474a.png)](https://open.spotify.com/playlist/7nrxO0hNX4X2ppgR4SEBMs?si=FiNwxA4kQ7i5Mj685xSSpQ)
-[![Play](https://user-images.githubusercontent.com/22590804/113121278-c5c4ae80-9212-11eb-9809-5035cf3cba21.png)](https://open.spotify.com/playlist/3eZE9I9UcJAhYTJJy7I8JO?si=BAXHb1T9Q4aYeaMLU0fVKw)
-[![Play](https://user-images.githubusercontent.com/22590804/113121302-cb21f900-9212-11eb-8f02-ac830afc1aa2.png)](https://open.spotify.com/playlist/5LwPCt0hJ6G4JBBF4IT4hc?si=RKjMLnfmRz2WnJGGIo0IJw)
-[![Play](https://user-images.githubusercontent.com/22590804/113121312-cd845300-9212-11eb-8a90-8e42c44a5870.png)](https://open.spotify.com/playlist/5GilluBbVN706VQu4CDNMe?si=UV66PTQBQUq5GwJFLhnbIg)
+[![Play](https://user-images.githubusercontent.com/22590804/113437051-353ec780-93e6-11eb-97fd-e23c25221e5f.png)](https://open.spotify.com/playlist/7nrxO0hNX4X2ppgR4SEBMs?si=uz6KxAG9SEqPb8x5E9Wgjw)
+[![Play](https://user-images.githubusercontent.com/22590804/113437257-9b2b4f00-93e6-11eb-9b5e-a188ddb3e09d.png)](https://open.spotify.com/playlist/5GilluBbVN706VQu4CDNMe?si=LanofXpXQOyaEtz7nMmWBA)
+[![Play](https://user-images.githubusercontent.com/22590804/113437307-b1390f80-93e6-11eb-9f32-6e9b21bd2608.png)](https://open.spotify.com/playlist/5LwPCt0hJ6G4JBBF4IT4hc?si=AhZJTgGOQ5azKKq-meA2QA)
+[![Play](https://user-images.githubusercontent.com/22590804/113437222-8c449c80-93e6-11eb-80f6-6707c10bd74c.png)](https://open.spotify.com/playlist/3eZE9I9UcJAhYTJJy7I8JO?si=BaIp-JMZRHSkZZRHG4rwTA)
 
 ## That's me
 <!-- markdownlint-disable MD033 -->
