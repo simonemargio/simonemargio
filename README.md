@@ -24,7 +24,7 @@
 - :books: [Books](https://simonemargio.im/work/books/)
 - 🎧 [Music](https://simonemargio.im/work/music/)
 - 🏃‍♂️ [Sport](https://simonemargio.im/work/sport/)
-- ⛩ [Anime](https://simonemargio.im/work/anime/)
+- 🎬 [Show](https://simonemargio.im/work/show/)
 - 🎮 [Game](https://simonemargio.im/work/game/)
 - 💰 [Expenses](https://simonemargio.im/work/expenses/)
 <!-- BLOG-POST-LIST:END -->
