@@ -6,14 +6,11 @@
 - :trophy: 2021 Goals: publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
-## Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tv1czk8r5ar01xar2mvucmj29&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tv1czk8r5ar01xar2mvucmj29&redirect=true)
-
 ## My Playlist
-[![Play](https://user-images.githubusercontent.com/22590804/113437051-353ec780-93e6-11eb-97fd-e23c25221e5f.png)](https://open.spotify.com/playlist/7nrxO0hNX4X2ppgR4SEBMs?si=uz6KxAG9SEqPb8x5E9Wgjw)
-[![Play](https://user-images.githubusercontent.com/22590804/113437257-9b2b4f00-93e6-11eb-9b5e-a188ddb3e09d.png)](https://open.spotify.com/playlist/5GilluBbVN706VQu4CDNMe?si=LanofXpXQOyaEtz7nMmWBA)
-[![Play](https://user-images.githubusercontent.com/22590804/113437307-b1390f80-93e6-11eb-9f32-6e9b21bd2608.png)](https://open.spotify.com/playlist/5LwPCt0hJ6G4JBBF4IT4hc?si=AhZJTgGOQ5azKKq-meA2QA)
-[![Play](https://user-images.githubusercontent.com/22590804/113437222-8c449c80-93e6-11eb-80f6-6707c10bd74c.png)](https://open.spotify.com/playlist/3eZE9I9UcJAhYTJJy7I8JO?si=BaIp-JMZRHSkZZRHG4rwTA)
+[![Play](https://user-images.githubusercontent.com/22590804/121787743-46673a00-cbc8-11eb-8e16-74dbf002841d.jpg)](https://music.apple.com/it/playlist/juice/pl.u-mJy83A8tGBvZWA)
+[![Play](https://user-images.githubusercontent.com/22590804/121787798-9d6d0f00-cbc8-11eb-8042-3481f8ed2ac1.jpg)](https://music.apple.com/it/playlist/gym/pl.u-38oWWgbT3gryK0)
+[![Play](https://user-images.githubusercontent.com/22590804/121787829-c7263600-cbc8-11eb-9349-74e57117a799.jpg)](https://music.apple.com/it/playlist/focus/pl.u-76oNNrBC4No3Ey)
+[![Play](https://user-images.githubusercontent.com/22590804/121787828-c68d9f80-cbc8-11eb-86a9-b46d20127921.jpg)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
 
 ## That's me
 <!-- markdownlint-disable MD033 -->
