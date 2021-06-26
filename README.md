@@ -1,4 +1,4 @@
-<h2> Hi, I'm Simone! <img src="https://thumbs.gfycat.com/ComposedUnsungFeline.webp" width="50"></h2>
+<h2> Hi, I'm Simone!</h2>
 
 - 👨‍💻 Currently working as a freelance developer.
 - :books: Learning everything about frontend and backend technologies.
