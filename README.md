@@ -44,7 +44,6 @@
 
 <!-- markdownlint-enable MD033 -->
 
-## My Github Data
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
