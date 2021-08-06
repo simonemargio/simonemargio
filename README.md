@@ -46,8 +46,80 @@
 
 ## My Github Data
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 432 Contributions in the Year 2021
+ > 
+> 📦 437.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 24 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
+🌆 Daytime    337 commits    ████████████░░░░░░░░░░░░░   48.49% 
+🌃 Evening    245 commits    ████████░░░░░░░░░░░░░░░░░   35.25% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+Tuesday      69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+Wednesday    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+Thursday     114 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
+Friday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
+Saturday     109 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+Sunday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.12%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        21 repos            ██████████████░░░░░░░░░░░   56.76% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/simonemargio/simonemargio/master/charts/bar_graph.png) 
+
+
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
 
 
