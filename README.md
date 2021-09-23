@@ -7,10 +7,10 @@
 - :dart: Wasting my time to save other people's time.
 
 ## My Playlist
-[![Play](https://user-images.githubusercontent.com/22590804/121787743-46673a00-cbc8-11eb-8e16-74dbf002841d.jpg)](https://music.apple.com/it/playlist/juice/pl.u-mJy83A8tGBvZWA)
-[![Play](https://user-images.githubusercontent.com/22590804/121787798-9d6d0f00-cbc8-11eb-8042-3481f8ed2ac1.jpg)](https://music.apple.com/it/playlist/gym/pl.u-38oWWgbT3gryK0)
-[![Play](https://user-images.githubusercontent.com/22590804/121787829-c7263600-cbc8-11eb-9349-74e57117a799.jpg)](https://music.apple.com/it/playlist/focus/pl.u-76oNNrBC4No3Ey)
-[![Play](https://user-images.githubusercontent.com/22590804/121787828-c68d9f80-cbc8-11eb-86a9-b46d20127921.jpg)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
+[![Play](https://user-images.githubusercontent.com/22590804/134475615-1af9fb6c-6107-439e-b08e-d367b13453df.jpg)](https://music.apple.com/it/playlist/juice/pl.u-mJy83A8tGBvZWA)
+[![Play](https://user-images.githubusercontent.com/22590804/134475621-139daa7b-2ab6-4627-833a-ff820c7801e2.jpg)](https://music.apple.com/it/playlist/gym/pl.u-38oWWgbT3gryK0)
+[![Play](https://user-images.githubusercontent.com/22590804/134475623-4bdb613e-246e-4320-a403-536a1c4d79d2.jpg)](https://music.apple.com/it/playlist/focus/pl.u-76oNNrBC4No3Ey)
+[![Play](https://user-images.githubusercontent.com/22590804/134475619-4bbbcdd0-30c7-41da-8086-61b954b56e9d.jpg)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
 
 ## That's me
 <!-- markdownlint-disable MD033 -->
