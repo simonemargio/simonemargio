@@ -34,6 +34,7 @@ I created a [website](http://simonemargiomusic.im) where there is an entire libr
     <summary>&#128073 <b>Latest blog posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital legacy](https://simonemargio.im/blog/digitallegacy/)
 - [Usability](https://simonemargio.im/blog/usability/)
 - [Bitwarden](https://simonemargio.im/blog/bitwarden/)
 - [About EXIF metadata](https://simonemargio.im/blog/aboutexifmetadata/)
