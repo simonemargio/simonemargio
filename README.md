@@ -64,9 +64,9 @@ I created a [website](http://simonemargiomusic.im) where there is an entire libr
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 26 Public Repositories 
  > 
-> 🔑 43 Private Repositories  
+> 🔑 44 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -121,7 +121,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2022 00:10:32 UTC
+ Last Updated on 02/06/2022 00:09:39 UTC
 <!--END_SECTION:waka-->
 
 
