@@ -1,4 +1,4 @@
-<h2>Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
+<h2>Hi there 👋</h2>
 
 - 👨‍💻 Currently working as a freelance developer.
 - :books: Learning everything about frontend and backend technologies.
