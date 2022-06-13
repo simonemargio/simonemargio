@@ -7,10 +7,9 @@
 - :dart: Wasting my time to save other people's time.
 
 ## My Playlist
-[![Play](https://user-images.githubusercontent.com/22590804/134475615-1af9fb6c-6107-439e-b08e-d367b13453df.jpg)](https://music.apple.com/it/playlist/juice/pl.u-mJy83A8tGBvZWA)
-[![Play](https://user-images.githubusercontent.com/22590804/134475621-139daa7b-2ab6-4627-833a-ff820c7801e2.jpg)](https://music.apple.com/it/playlist/gym/pl.u-38oWWgbT3gryK0)
-[![Play](https://user-images.githubusercontent.com/22590804/134475623-4bdb613e-246e-4320-a403-536a1c4d79d2.jpg)](https://music.apple.com/it/playlist/focus/pl.u-76oNNrBC4No3Ey)
-[![Play](https://user-images.githubusercontent.com/22590804/134475619-4bbbcdd0-30c7-41da-8086-61b954b56e9d.jpg)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
+[![Play](https://user-images.githubusercontent.com/22590804/173320312-c6ff4952-2d80-4da0-bc86-1a49d009b4a7.jpg)](https://music.apple.com/it/playlist/juice/pl.u-mJy83A8tGBvZWA)
+[![Play](https://user-images.githubusercontent.com/22590804/173320788-49695c90-a4c3-48b3-8ac5-f6f4b944955f.jpg)](https://music.apple.com/it/playlist/gym/pl.u-38oWWgbT3gryK0)
+[![Play](https://user-images.githubusercontent.com/22590804/173321081-fd673357-e189-4e1d-bf6a-fc8048872de2.jpg)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
 
 And this is just a part of the music that I love.  
 I created a [website](http://simonemargiomusic.im) where there is an entire library of all the playlists listened to since 2015.
