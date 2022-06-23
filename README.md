@@ -96,11 +96,10 @@ Sunday       155 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TOML                     11 mins             ████████████████░░░░░░░░░   65.15% 
-Markdown                 6 mins              ████████░░░░░░░░░░░░░░░░░   34.85%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -117,7 +116,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2022 00:09:30 UTC
+ Last Updated on 23/06/2022 00:08:50 UTC
 <!--END_SECTION:waka-->
 
 
