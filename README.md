@@ -20,7 +20,7 @@ I created a [website](http://simonemargiomusic.im) where there is an entire libr
     <summary>&#128073 <b>About</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- :books: [Books](https://simonemargio.im/work/books/)
+- :books: [Books](https://simonemargio.im/me/books/)
 - 🎧 [Music](https://simonemargio.im/me/music/)
 - 🏃‍♂️ [Sport](https://simonemargio.im/me/sport/)
 - 🎬 [Show](https://simonemargio.im/me/show/)
