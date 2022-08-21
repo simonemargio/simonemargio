@@ -21,11 +21,11 @@ I created a [website](http://simonemargiomusic.im) where there is an entire libr
 
 <!-- BLOG-POST-LIST:START -->
 - :books: [Books](https://simonemargio.im/work/books/)
-- 🎧 [Music](https://simonemargio.im/work/music/)
-- 🏃‍♂️ [Sport](https://simonemargio.im/work/sport/)
-- 🎬 [Show](https://simonemargio.im/work/show/)
-- 🎮 [Game](https://simonemargio.im/work/game/)
-- 💰 [Expenses](https://simonemargio.im/work/expenses/)
+- 🎧 [Music](https://simonemargio.im/me/music/)
+- 🏃‍♂️ [Sport](https://simonemargio.im/me/sport/)
+- 🎬 [Show](https://simonemargio.im/me/show/)
+- 🎮 [Game](https://simonemargio.im/me/game/)
+- 💰 [Expenses](https://simonemargio.im/me/expenses/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
