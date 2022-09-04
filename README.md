@@ -20,12 +20,9 @@ I created a [website](http://simonemargiomusic.im) where there is an entire libr
     <summary>&#128073 <b>About</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- :books: [Books](https://simonemargio.im/me/books/)
-- 🎧 [Music](https://simonemargio.im/me/music/)
-- 🏃‍♂️ [Sport](https://simonemargio.im/me/sport/)
-- 🎬 [Show](https://simonemargio.im/me/show/)
-- 🎮 [Game](https://simonemargio.im/me/game/)
-- 💰 [Expenses](https://simonemargio.im/me/expenses/)
+- 👀 [About me](https://simonemargio.im/about/)
+- 🧑‍💻 [Resume](https://simonemargio.im/resume/)
+- 🤝 [Polywork](https://www.polywork.com/simonemargio)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
