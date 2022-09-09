@@ -21,7 +21,7 @@
 </details>
 
 <details>
-    <summary>&#128073 <b>Latest blog posts</b></summary><br/>
+    <summary>&#128073 <b>Blog posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 - [Apple Music](https://simonemargio.im/blog/applemusic/)
