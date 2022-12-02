@@ -52,7 +52,7 @@ And this is just a part of the music that I love. [Here](https://simonemargiomus
 ## Other
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -95,8 +95,9 @@ Sunday       119 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    37 mins             █████████████░░░░░░░░░░░░   54.18% 
-Markdown                 31 mins             ███████████░░░░░░░░░░░░░░   45.8% 
+Markdown                 30 mins             ███████████░░░░░░░░░░░░░░   43.66% 
+Other                    27 mins             ██████████░░░░░░░░░░░░░░░   39.56% 
+Git Config               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
@@ -117,7 +118,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2022 00:09:59 UTC
+ Last Updated on 02/12/2022 00:08:45 UTC
 <!--END_SECTION:waka-->
 
 
