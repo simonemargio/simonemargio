@@ -24,6 +24,7 @@
     <summary>&#128073 <b>Blog posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass](https://simonemargio.im/blog/lastpass/)
 - [Apple Music](https://simonemargio.im/blog/applemusic/)
 - [iCloud Keychain](https://simonemargio.im/blog/icloudkeychain/)
 - [Digital legacy](https://simonemargio.im/blog/digitallegacy/)
@@ -32,9 +33,7 @@
 - [About EXIF metadata](https://simonemargio.im/blog/aboutexifmetadata/)
 - [Stop using whatsapp](https://simonemargio.im/blog/stopusingwhatsapp/)
 - [Password Managers](https://simonemargio.im/blog/managepasswords/)
-- [Always backup](https://simonemargio.im/blog/backup/)
-- [Fix Apple Watch battery life](https://simonemargio.im/blog/fixapplewatch/)
-- [Summer reading](https://simonemargio.im/blog/summer-reading/)
+- [More...](https://simonemargio.im/blog/page/2/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
