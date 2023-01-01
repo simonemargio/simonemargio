@@ -51,11 +51,11 @@ And this is just a part of the music that I love. [Here](https://simonemargiomus
 ## Other
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 904 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 412.8 kB Used in GitHub's Storage 
  > 
@@ -94,12 +94,13 @@ Sunday       128 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 14 hrs 41 mins      ████████████████████████░   99.26% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Markdown                 14 hrs 41 mins      ████████████████████████░   97.04% 
+HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 💻 Operating System: 
-Mac                      14 hrs 48 mins      █████████████████████████   100.0%
+Mac                      15 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +117,7 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 00:07:38 UTC
+ Last Updated on 01/01/2023 00:09:39 UTC
 <!--END_SECTION:waka-->
 
 
