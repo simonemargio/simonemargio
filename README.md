@@ -33,7 +33,7 @@
 - [About EXIF metadata](https://simonemargio.im/blog/aboutexifmetadata/)
 - [Stop using whatsapp](https://simonemargio.im/blog/stopusingwhatsapp/)
 - [Password Managers](https://simonemargio.im/blog/managepasswords/)
-- [More...](https://simonemargio.im/blog/page/2/)
+- [More](https://simonemargio.im/blog/page/2/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
