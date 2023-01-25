@@ -3,7 +3,7 @@
 - 👨‍💻 Currently working as a freelance developer.
 - :books: Learning everything about frontend and backend technologies.
 - 🌱 Vegetarian and vegan cuisine lover.
-- :trophy: 2022 Goals: publish more open source projects.
+- :trophy: 2023 Goals: publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
 <br>
