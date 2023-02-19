@@ -37,6 +37,14 @@
 <!-- BLOG-POST-LIST:END -->
 </details>
 
+<details>
+    <summary>&#128073 <b>Weekly log</b></summary><br/>
+
+<!-- BLOG-POST-LIST:START -->
+- [February - 3° week](https://simonemargio.github.io/weblog/posts/2022/03-february/)
+<!-- BLOG-POST-LIST:END -->
+</details>
+
 <br>
 
 ## My Playlist
