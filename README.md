@@ -41,7 +41,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [February - 3° week](https://simonemargio.github.io/weblog/posts/2022/03-february/)
+- [February - 3° week](https://simonemargio.im/log/2022/february/3/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
