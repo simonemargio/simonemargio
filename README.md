@@ -14,7 +14,7 @@
     <summary>&#128073 <b>About</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- 👀 [About me](https://simonemargio.im/about/)
+- 👀 [About me](https://simonemargio.im/)
 - 🧑‍💻 [Resume](https://simonemargio.im/resume/)
 - 🤝 [Polywork](https://www.polywork.com/simonemargio)
 <!-- BLOG-POST-LIST:END -->
