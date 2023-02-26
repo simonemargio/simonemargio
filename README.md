@@ -42,6 +42,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [February - 3° week](https://simonemargio.im/log/2022/february/3/)
+- [February - 4° week](https://simonemargio.im/log/2022/february/4/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
