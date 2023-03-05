@@ -41,9 +41,9 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [March - 1° week](https://simonemargio.im/log/2022/march/1/)
-- [February - 4° week](https://simonemargio.im/log/2022/february/4/)
-- [February - 3° week](https://simonemargio.im/log/2022/february/3/)
+- [Mar - 1°](https://simonemargio.im/log/2022/march/1/)
+- [Feb - 4°](https://simonemargio.im/log/2022/february/4/)
+- [Feb - 3°](https://simonemargio.im/log/2022/february/3/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
