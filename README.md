@@ -1,4 +1,4 @@
-<h2>Hi there 👋</h2>
+<h2>Hello there 👋</h2>
 
 - 👨‍💻 Currently working as a freelance developer.
 - :books: Learning everything about frontend and backend technologies.
@@ -41,6 +41,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [March - 1° week](https://simonemargio.im/log/2022/march/1/)
 - [February - 4° week](https://simonemargio.im/log/2022/february/4/)
 - [February - 3° week](https://simonemargio.im/log/2022/february/3/)
 <!-- BLOG-POST-LIST:END -->
