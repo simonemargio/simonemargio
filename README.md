@@ -41,12 +41,9 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mar - 4°](https://simonemargio.im/log/2022/march/4/)   
-- [Mar - 3°](https://simonemargio.im/log/2022/march/3/)    
-- [Mar - 2°](https://simonemargio.im/log/2022/march/2/)
-- [Mar - 1°](https://simonemargio.im/log/2022/march/1/)
-- [Feb - 4°](https://simonemargio.im/log/2022/february/4/)
-- [Feb - 3°](https://simonemargio.im/log/2022/february/3/)
+- [April - 1°](https://simonemargio.im/log/april/1/) 
+- [March](https://simonemargio.im/log/march/)   
+- [February](https://simonemargio.im/log/february/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
