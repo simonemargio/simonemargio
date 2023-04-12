@@ -41,6 +41,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [April - 2°](https://simonemargio.im/log/april/2/) 
 - [April - 1°](https://simonemargio.im/log/april/1/) 
 - [March](https://simonemargio.im/log/march/)   
 - [February](https://simonemargio.im/log/february/)
