@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:START -->
 - 👀 [About me](https://simonemargio.im/)
 - 🧑‍💻 [Resume](https://simonemargio.im/resume/)
-- 🤝 [Polywork](https://www.polywork.com/simonemargio)
+- ⚙️ [What I use](https://simonemargio.im/uses/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
@@ -41,6 +41,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [April - 5°](https://simonemargio.im/log/april/5/) 
 - [April - 4°](https://simonemargio.im/log/april/4/) 
 - [April - 3°](https://simonemargio.im/log/april/3/) 
 - [April - 2°](https://simonemargio.im/log/april/2/) 
