@@ -41,11 +41,9 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [April - 5°](https://simonemargio.im/log/april/5/) 
-- [April - 4°](https://simonemargio.im/log/april/4/) 
-- [April - 3°](https://simonemargio.im/log/april/3/) 
-- [April - 2°](https://simonemargio.im/log/april/2/) 
-- [April - 1°](https://simonemargio.im/log/april/1/) 
+- [May - 2°](https://simonemargio.im/log/may/2/)
+- [May - 1°](https://simonemargio.im/log/may/1/) 
+- [April](https://simonemargio.im/log/april/)
 - [March](https://simonemargio.im/log/march/)   
 - [February](https://simonemargio.im/log/february/)
 <!-- BLOG-POST-LIST:END -->
