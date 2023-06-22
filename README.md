@@ -24,6 +24,7 @@
     <summary>&#128073 <b>Blog posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [LastPass](https://simonemargio.im/blog/linux/)
 - [LastPass](https://simonemargio.im/blog/lastpass/)
 - [Apple Music](https://simonemargio.im/blog/applemusic/)
 - [iCloud Keychain](https://simonemargio.im/blog/icloudkeychain/)
@@ -32,7 +33,6 @@
 - [Bitwarden](https://simonemargio.im/blog/bitwarden/)
 - [About EXIF metadata](https://simonemargio.im/blog/aboutexifmetadata/)
 - [Stop using whatsapp](https://simonemargio.im/blog/stopusingwhatsapp/)
-- [Password Managers](https://simonemargio.im/blog/managepasswords/)
 - [More](https://simonemargio.im/blog/page/2/)
 <!-- BLOG-POST-LIST:END -->
 </details>
@@ -41,6 +41,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Jun - 3°](https://simonemargio.im/log/june/3/)
 - [Jun - 2°](https://simonemargio.im/log/june/2/)
 - [Jun - 1°](https://simonemargio.im/log/june/1/)
 - [May](https://simonemargio.im/log/may/)
