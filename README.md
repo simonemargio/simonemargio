@@ -24,7 +24,7 @@
     <summary>&#128073 <b>Blog posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [LastPass](https://simonemargio.im/blog/linux/)
+- [Linux](https://simonemargio.im/blog/linux/)
 - [LastPass](https://simonemargio.im/blog/lastpass/)
 - [Apple Music](https://simonemargio.im/blog/applemusic/)
 - [iCloud Keychain](https://simonemargio.im/blog/icloudkeychain/)
