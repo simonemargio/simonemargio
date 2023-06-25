@@ -17,6 +17,7 @@
 - 👀 [About me](https://simonemargio.im/)
 - 🧑‍💻 [Resume](https://simonemargio.im/resume/)
 - ⚙️ [What I use](https://simonemargio.im/uses/)
+- 🧐 [More](https://simonemargio.im/link/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
@@ -41,6 +42,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Jun - 4°](https://simonemargio.im/log/june/4/)
 - [Jun - 3°](https://simonemargio.im/log/june/3/)
 - [Jun - 2°](https://simonemargio.im/log/june/2/)
 - [Jun - 1°](https://simonemargio.im/log/june/1/)
