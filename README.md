@@ -1,6 +1,6 @@
 <h2>Hello there 👋</h2>
 
-- 👨‍💻 Currently working as a freelance developer.
+- 🚀 Currently working as a freelance developer.
 - :books: Learning everything about frontend and backend technologies.
 - 🌱 Vegetarian and vegan cuisine lover.
 - :trophy: 2023 Goals: publish more open source projects.
