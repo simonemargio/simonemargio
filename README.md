@@ -15,7 +15,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - 👀 [About me](https://simonemargio.im/)
-- 🧑‍💻 [Resume](https://simonemargio.im/resume/)
+- 💻 [Resume](https://simonemargio.im/resume/)
 - ⚙️ [What I use](https://simonemargio.im/uses/)
 - 🧐 [More](https://simonemargio.im/link/)
 <!-- BLOG-POST-LIST:END -->
