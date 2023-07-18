@@ -60,7 +60,7 @@
 [![Play](https://user-images.githubusercontent.com/22590804/173320788-49695c90-a4c3-48b3-8ac5-f6f4b944955f.jpg)](https://music.apple.com/it/playlist/gym/pl.u-38oWWgbT3gryK0)
 [![Play](https://user-images.githubusercontent.com/22590804/173321081-fd673357-e189-4e1d-bf6a-fc8048872de2.jpg)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
 
-And this is just a part of the music that I love. [Here](https://simonemargio.github.io/music/) is the entire library of playlists and songs I've been listening to since 2015.
+And this is just a part of the music that I love. [Here](https://simonemargio.gitlab.io/music/) is the entire library of playlists and songs I've been listening to since 2015.
 
 
 
