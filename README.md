@@ -46,6 +46,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [August](https://simonemargio.im/log/august/)
 - [July](https://simonemargio.im/log/july/)
 - [June](https://simonemargio.im/log/june/)
 - [May](https://simonemargio.im/log/may/)
