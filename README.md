@@ -46,6 +46,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [September - 5°](https://simonemargio.im/log/5/)
+- [September - 4°](https://simonemargio.im/log/4/)
 - [September - 3°](https://simonemargio.im/log/3/)
 - [September - 2°](https://simonemargio.im/log/2/)
 - [September - 1°](https://simonemargio.im/log/1/)
