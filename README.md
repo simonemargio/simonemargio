@@ -46,11 +46,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [September - 5°](https://simonemargio.im/log/5/)
-- [September - 4°](https://simonemargio.im/log/4/)
-- [September - 3°](https://simonemargio.im/log/3/)
-- [September - 2°](https://simonemargio.im/log/2/)
-- [September - 1°](https://simonemargio.im/log/1/)
+
+- [October - 1°](https://simonemargio.im/log/1/)
+- [September](https://simonemargio.im/log/september/)
 - [August](https://simonemargio.im/log/august/)
 - [July](https://simonemargio.im/log/july/)
 - [June](https://simonemargio.im/log/june/)
