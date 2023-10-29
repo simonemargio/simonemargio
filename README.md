@@ -46,6 +46,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [October - 4°](https://simonemargio.im/log/4/)
 - [October - 3°](https://simonemargio.im/log/3/)
 - [October - 2°](https://simonemargio.im/log/2/)
 - [October - 1°](https://simonemargio.im/log/1/)
