@@ -3,7 +3,7 @@
 - 🚀 Currently working as a freelance developer.
 - :books: Learning everything about frontend and backend technologies.
 - 🌱 Vegetarian and vegan cuisine lover.
-- :trophy: 2023 Goals: publish more open source projects.
+- 🎵 Music fan, check out my music [library](https://simonemargio.im/music/).
 - :dart: Wasting my time to save other people's time.
 
 <br>
@@ -60,12 +60,3 @@
 - [February](https://simonemargio.im/log/february/)
   <!-- BLOG-POST-LIST:END -->
   </details>
-
-<br>
-
-## My Playlist
-
-[![Play](https://github.com/simonemargio/simonemargio/assets/22590804/236a28f8-6429-41be-af61-d1a6c30f8987)](https://music.apple.com/it/playlist/juice/pl.u-mJy83A8tGBvZWA)
-[![Play](https://github.com/simonemargio/simonemargio/assets/22590804/8d5523fb-7ac5-43a0-b2af-dd7c9034e971)](https://music.apple.com/it/playlist/relax/pl.u-9N9LLp3u27KNLk)
-
-And this is just a part of the music that I love. [Here](https://simonemargio.im/music/) is the entire library of playlists and songs I've been listening to since 2015.
