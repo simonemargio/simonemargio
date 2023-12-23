@@ -28,6 +28,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [MacBook Battery](https://simonemargio.im/blog/macbookbattery/)
 - [Linux](https://simonemargio.im/blog/linux/)
 - [LastPass](https://simonemargio.im/blog/lastpass/)
 - [Apple Music](https://simonemargio.im/blog/applemusic/)
