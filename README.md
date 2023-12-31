@@ -19,7 +19,7 @@
 - 🏡 [About me](https://simonemargio.im/)
 - 🤝 [Resume](https://simonemargio.im/resume/)
 - 💻 [What I use](https://simonemargio.im/uses/)
-- 🌍 [More](https://simonemargio.im/link/)
+- 🌍 [More](https://simonemargio.im/more/)
   <!-- BLOG-POST-LIST:END -->
   </details>
 
