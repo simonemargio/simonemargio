@@ -47,6 +47,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Feb - 4](https://simonemargio.im/log/4/)
 - [Feb - 3](https://simonemargio.im/log/3/)
 - [Feb - 2](https://simonemargio.im/log/2/)
 - [Feb - 1](https://simonemargio.im/log/1/)
