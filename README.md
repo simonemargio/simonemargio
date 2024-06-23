@@ -46,7 +46,11 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [May - 1](https://simonemargio.im/log/1/)
+- [Jun - 4](https://simonemargio.im/log/4)
+- [Jun - 3](https://simonemargio.im/log/3)
+- [Jun - 2](https://simonemargio.im/log/2)
+- [Jun - 1](https://simonemargio.im/log/1)
+- [May](https://simonemargio.im/log/may/)
 - [April](https://simonemargio.im/log/april/)
 - [March](https://simonemargio.im/log/march/)
 - [February](https://simonemargio.im/log/february/)
