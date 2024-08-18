@@ -47,8 +47,9 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Aug - 2](https://simonemargio.im/log/2)
-- [Aug - 1](https://simonemargio.im/log/1)
+- [Aug - 3](https://simonemargio.im/log/3) 🏝️
+- [Aug - 2](https://simonemargio.im/log/2) 🏝️
+- [Aug - 1](https://simonemargio.im/log/1) 🏝️
 - [July](https://simonemargio.im/log/july)
 - [June](https://simonemargio.im/log/june)
 - [May](https://simonemargio.im/log/may/)
