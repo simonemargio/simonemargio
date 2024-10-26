@@ -47,9 +47,10 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Sep - 3](https://simonemargio.im/log/3)
-- [Sep - 2](https://simonemargio.im/log/2)
-- [Sep - 1](https://simonemargio.im/log/1)
+- [Oct - 3](https://simonemargio.im/log/3)
+- [Oct - 2](https://simonemargio.im/log/2)
+- [Oct - 1](https://simonemargio.im/log/1)
+- [September](https://simonemargio.im/log/september/)
 - [August](https://simonemargio.im/log/august) 🏝️
 - [July](https://simonemargio.im/log/july)
 - [June](https://simonemargio.im/log/june)
