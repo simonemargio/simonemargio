@@ -16,11 +16,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- 🏡 [About me](https://simonemargio.im/)
+- 🏡 [Home](https://simonemargio.im/)
 - 🤝 [Resume](https://simonemargio.im/resume/)
 - 💻 [What I use](https://simonemargio.im/uses/)
 - 📮 [Post](https://simonemargio.im/post/)
-- 🌍 [More](https://simonemargio.im/more/)
+- 🌍 [About me](https://simonemargio.im/about/)
   <!-- BLOG-POST-LIST:END -->
   </details>
 
