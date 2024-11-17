@@ -18,11 +18,24 @@
 
 - 🏡 [Home](https://simonemargio.im/)
 - 🤝 [Resume](https://simonemargio.im/resume/)
+- 🌍 [About me](https://simonemargio.im/about/)
+<!-- BLOG-POST-LIST:END -->
+</details>
+
+<details>
+    <summary>&#128073 <b>Now</b></summary><br/>
+    <!-- NOW-LIST:START -->
+
+- 📚 [Book](https://simonemargio.im/book/)
+- 🧘‍♀️ [Sport](https://simonemargio.im/sport/)
+- 🚀 [Learn](https://simonemargio.im/learn/)
 - 💻 [What I use](https://simonemargio.im/uses/)
 - 📮 [Post](https://simonemargio.im/post/)
-- 🌍 [About me](https://simonemargio.im/about/)
-  <!-- BLOG-POST-LIST:END -->
-  </details>
+
+  <!-- NOW-LIST:END -->
+</details>
+
+
 
 <details>
     <summary>&#128073 <b>Blog posts</b></summary><br/>
@@ -47,6 +60,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nov - 3](https://simonemargio.im/log/3/)
 - [Nov - 2](https://simonemargio.im/log/2/)
 - [Nov - 1](https://simonemargio.im/log/1/)
 - [October](https://simonemargio.im/log/october)
