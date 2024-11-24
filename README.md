@@ -60,12 +60,13 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nov - 4](https://simonemargio.im/log/4/)
 - [Nov - 3](https://simonemargio.im/log/3/)
 - [Nov - 2](https://simonemargio.im/log/2/)
 - [Nov - 1](https://simonemargio.im/log/1/)
 - [October](https://simonemargio.im/log/october)
 - [September](https://simonemargio.im/log/september/)
-- [August](https://simonemargio.im/log/august) 🏝️
+- [August](https://simonemargio.im/log/august)
 - [July](https://simonemargio.im/log/july)
 - [June](https://simonemargio.im/log/june)
 - [May](https://simonemargio.im/log/may/)
