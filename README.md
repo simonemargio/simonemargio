@@ -60,6 +60,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Dec - 3](https://simonemargio.im/log/3/)
 - [Dec - 2](https://simonemargio.im/log/2/)
 - [Dec - 1](https://simonemargio.im/log/1/)
 - [November](https://simonemargio.im/log/november/)
