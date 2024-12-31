@@ -60,21 +60,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Dec - 4](https://simonemargio.im/log/4/)
-- [Dec - 3](https://simonemargio.im/log/3/)
-- [Dec - 2](https://simonemargio.im/log/2/)
-- [Dec - 1](https://simonemargio.im/log/1/)
-- [November](https://simonemargio.im/log/november/)
-- [October](https://simonemargio.im/log/october)
-- [September](https://simonemargio.im/log/september/)
-- [August](https://simonemargio.im/log/august)
-- [July](https://simonemargio.im/log/july)
-- [June](https://simonemargio.im/log/june)
-- [May](https://simonemargio.im/log/may/)
-- [April](https://simonemargio.im/log/april/)
-- [March](https://simonemargio.im/log/march/)
-- [February](https://simonemargio.im/log/february/)
-- [January](https://simonemargio.im/log/january/)
+- [2024](https://simonemargio.im/log/2024)
 - [2023](https://simonemargio.im/log/2023)
   <!-- BLOG-POST-LIST:END -->
   </details>
