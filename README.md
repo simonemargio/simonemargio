@@ -1,10 +1,9 @@
 <h2>Hello there 👋</h2>
 
-- 🚀 Currently working as a freelance developer.
 - :books: Learning everything about frontend and backend technologies.
 - 🌱 Vegetarian and vegan cuisine lover.
 - 🎵 Music fan, check out my music [library](https://simonemargio.im/music/).
-- :dart: Wasting my time to save other people's time.
+- :dart: Investing my time to save other people's time.
 
 <br>
 
