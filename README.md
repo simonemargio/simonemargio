@@ -59,6 +59,7 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [Jan - 2°](https://simonemargio.im/log/2)
 - [Jan - 1°](https://simonemargio.im/log/1)
 - [2024](https://simonemargio.im/log/2024)
 - [2023](https://simonemargio.im/log/2023)
