@@ -41,6 +41,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Endel](https://simonemargio.im/blog/endel/)
 - [MacBook Battery](https://simonemargio.im/blog/macbookbattery/)
 - [Linux](https://simonemargio.im/blog/linux/)
 - [LastPass](https://simonemargio.im/blog/lastpass/)
@@ -50,7 +51,6 @@
 - [Usability](https://simonemargio.im/blog/usability/)
 - [Bitwarden](https://simonemargio.im/blog/bitwarden/)
 - [About EXIF metadata](https://simonemargio.im/blog/aboutexifmetadata/)
-- [Stop using whatsapp](https://simonemargio.im/blog/stopusingwhatsapp/)
 - [More](https://simonemargio.im/blog/page/2/)
   <!-- BLOG-POST-LIST:END -->
   </details>
@@ -59,10 +59,12 @@
     <summary>&#128073 <b>Weekly log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Jan - 4°](https://simonemargio.im/log/4)
-- [Jan - 3°](https://simonemargio.im/log/3)
-- [Jan - 2°](https://simonemargio.im/log/2)
-- [Jan - 1°](https://simonemargio.im/log/1)
+
+- [Feb - 4°](https://simonemargio.im/log/4)
+- [Feb - 3°](https://simonemargio.im/log/3)
+- [Feb - 2°](https://simonemargio.im/log/2)
+- [Feb - 1°](https://simonemargio.im/log/1)
+- [January](https://simonemargio.im/log/2025/january/)
 - [2024](https://simonemargio.im/log/2024)
 - [2023](https://simonemargio.im/log/2023)
   <!-- BLOG-POST-LIST:END -->
