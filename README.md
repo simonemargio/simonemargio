@@ -60,10 +60,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Feb - 4°](https://simonemargio.im/log/4)
-- [Feb - 3°](https://simonemargio.im/log/3)
-- [Feb - 2°](https://simonemargio.im/log/2)
-- [Feb - 1°](https://simonemargio.im/log/1)
+- [Apr - 1°](https://simonemargio.dev/log/1/)
+- [March](https://simonemargio.dev/log/2025/march/)
+- [February](https://simonemargio.dev/log/2025/february/)
 - [January](https://simonemargio.im/log/2025/january/)
 - [2024](https://simonemargio.im/log/2024)
 - [2023](https://simonemargio.im/log/2023)
