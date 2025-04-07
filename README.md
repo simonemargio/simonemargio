@@ -2,7 +2,7 @@
 
 - :books: Learning everything about frontend and backend technologies.
 - 🌱 Vegetarian and vegan cuisine lover.
-- 🎵 Music fan, check out my music [library](https://simonemargio.im/music/).
+- 🎵 Music fan, check out my music [library](https://simonemargio.dev/music/).
 - :dart: Investing my time to save other people's time.
 
 <br>
@@ -15,9 +15,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- 🏡 [Home](https://simonemargio.im/)
-- 🤝 [Resume](https://simonemargio.im/resume/)
-- 🌍 [About me](https://simonemargio.im/about/)
+- 🏡 [Home](https://simonemargio.dev/)
+- 🤝 [Resume](https://simonemargio.dev/resume/)
+- 🌍 [About me](https://simonemargio.dev/about/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
@@ -25,11 +25,11 @@
     <summary>&#128073 <b>Now</b></summary><br/>
     <!-- NOW-LIST:START -->
 
-- 📚 [Book](https://simonemargio.im/book/)
-- 🧘‍♀️ [Sport](https://simonemargio.im/sport/)
-- 🚀 [Learn](https://simonemargio.im/learn/)
-- 💻 [What I use](https://simonemargio.im/uses/)
-- 📮 [Post](https://simonemargio.im/post/)
+- 📚 [Book](https://simonemargio.dev/book/)
+- 🧘‍♀️ [Sport](https://simonemargio.dev/sport/)
+- 🚀 [Learn](https://simonemargio.dev/learn/)
+- 💻 [What I use](https://simonemargio.dev/uses/)
+- 📮 [Post](https://simonemargio.dev/post/)
 
   <!-- NOW-LIST:END -->
 </details>
@@ -41,17 +41,17 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Endel](https://simonemargio.im/blog/endel/)
-- [MacBook Battery](https://simonemargio.im/blog/macbookbattery/)
-- [Linux](https://simonemargio.im/blog/linux/)
-- [LastPass](https://simonemargio.im/blog/lastpass/)
-- [Apple Music](https://simonemargio.im/blog/applemusic/)
-- [iCloud Keychain](https://simonemargio.im/blog/icloudkeychain/)
-- [Digital legacy](https://simonemargio.im/blog/digitallegacy/)
-- [Usability](https://simonemargio.im/blog/usability/)
-- [Bitwarden](https://simonemargio.im/blog/bitwarden/)
-- [About EXIF metadata](https://simonemargio.im/blog/aboutexifmetadata/)
-- [More](https://simonemargio.im/blog/page/2/)
+- [Endel](https://simonemargio.dev/blog/endel/)
+- [MacBook Battery](https://simonemargio.dev/blog/macbookbattery/)
+- [Linux](https://simonemargio.dev/blog/linux/)
+- [LastPass](https://simonemargio.dev/blog/lastpass/)
+- [Apple Music](https://simonemargio.dev/blog/applemusic/)
+- [iCloud Keychain](https://simonemargio.dev/blog/icloudkeychain/)
+- [Digital legacy](https://simonemargio.dev/blog/digitallegacy/)
+- [Usability](https://simonemargio.dev/blog/usability/)
+- [Bitwarden](https://simonemargio.dev/blog/bitwarden/)
+- [About EXIF metadata](https://simonemargio.dev/blog/aboutexifmetadata/)
+- [More](https://simonemargio.dev/blog/page/2/)
   <!-- BLOG-POST-LIST:END -->
   </details>
 
@@ -63,8 +63,8 @@
 - [Apr - 1°](https://simonemargio.dev/log/1/)
 - [March](https://simonemargio.dev/log/2025/march/)
 - [February](https://simonemargio.dev/log/2025/february/)
-- [January](https://simonemargio.im/log/2025/january/)
-- [2024](https://simonemargio.im/log/2024)
-- [2023](https://simonemargio.im/log/2023)
+- [January](https://simonemargio.dev/log/2025/january/)
+- [2024](https://simonemargio.dev/log/2024)
+- [2023](https://simonemargio.dev/log/2023)
   <!-- BLOG-POST-LIST:END -->
   </details>
