@@ -37,20 +37,16 @@
 
 
 <details>
-    <summary>&#128073 <b>Blog posts</b></summary><br/>
+    <summary>&#128073 <b>Log</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Indexing](https://simonemargio.dev/log/indexing/)
+- [Music](https://simonemargio.dev/log/music/)
 - [Endel](https://simonemargio.dev/blog/endel/)
-- [MacBook Battery](https://simonemargio.dev/blog/macbookbattery/)
-- [Linux](https://simonemargio.dev/blog/linux/)
-- [LastPass](https://simonemargio.dev/blog/lastpass/)
-- [Apple Music](https://simonemargio.dev/blog/applemusic/)
-- [iCloud Keychain](https://simonemargio.dev/blog/icloudkeychain/)
-- [Digital legacy](https://simonemargio.dev/blog/digitallegacy/)
-- [Usability](https://simonemargio.dev/blog/usability/)
-- [Bitwarden](https://simonemargio.dev/blog/bitwarden/)
-- [About EXIF metadata](https://simonemargio.dev/blog/aboutexifmetadata/)
+- [Loss](https://simonemargio.dev/log/loss/)
+- [Self](https://simonemargio.dev/log/self/)
+- [Happiness](https://simonemargio.dev/log/happiness/)
 - [More](https://simonemargio.dev/blog/page/2/)
   <!-- BLOG-POST-LIST:END -->
 </details>
