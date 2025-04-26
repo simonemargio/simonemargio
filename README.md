@@ -53,18 +53,4 @@
 - [About EXIF metadata](https://simonemargio.dev/blog/aboutexifmetadata/)
 - [More](https://simonemargio.dev/blog/page/2/)
   <!-- BLOG-POST-LIST:END -->
-  </details>
-
-<details>
-    <summary>&#128073 <b>Weekly log</b></summary><br/>
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Apr - 1°](https://simonemargio.dev/log/1/)
-- [March](https://simonemargio.dev/log/2025/march/)
-- [February](https://simonemargio.dev/log/2025/february/)
-- [January](https://simonemargio.dev/log/2025/january/)
-- [2024](https://simonemargio.dev/log/2024)
-- [2023](https://simonemargio.dev/log/2023)
-  <!-- BLOG-POST-LIST:END -->
-  </details>
+</details>
