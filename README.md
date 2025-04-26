@@ -39,5 +39,5 @@
 - [Loss](https://simonemargio.dev/log/loss/)
 - [Self](https://simonemargio.dev/log/self/)
 - [Happiness](https://simonemargio.dev/log/happiness/)
-- [More](https://simonemargio.dev/log/page/2/)
+- [More...](https://simonemargio.dev/log/page/2/)
 </details>
