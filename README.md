@@ -5,7 +5,7 @@
 - 🎵 Music fan, check out my music [library](https://simonemargio.dev/music/).
 - :dart: Investing my time to save other people's time.
 
-<br>
+<br />
 
 ## That's me
 
@@ -13,3 +13,10 @@
 - 🤝 [Resume](https://simonemargio.dev/resume/)
 - 💻 [What I use](https://simonemargio.dev/uses/)
 - 🌍 [About](https://simonemargio.dev/about/)
+
+<br />
+
+---
+
+**These repositories are mirrored.**<br />
+Find everything on my self-hosted [Forgejo](https://git.simonemargio.dev/) instance.
