@@ -1,4 +1,4 @@
-<h2>Hello there 👋</h2>
+<h2>Hey there! 👋</h2>
 
 - :books: Learning everything about frontend and backend technologies.
 - 🌱 Vegetarian and vegan cuisine lover.
