@@ -12,5 +12,4 @@
 - 🏡 [Home](https://simonemargio.dev/)
 - 🤝 [Resume](https://simonemargio.dev/resume/)
 - 💻 [What I use](https://simonemargio.dev/uses/)
-- 🌱 [Homelab](https://simonemargio.dev/homelab/)
 - 🌍 [About](https://simonemargio.dev/about/)
